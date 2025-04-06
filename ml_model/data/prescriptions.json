@@ -1,0 +1,9 @@
+[
+    {
+        "id": 1,
+        "filename": "ColorRx-English-Logo-HTWT-Generics.png",
+        "date": "2025-04-06",
+        "structured_text": "**Patient Information:**\n\n* Name: PATIENT (M)\n* Age: 13 Years\n* Gender: Male\n* Mobile No: 9423380390\n* Address: Pune\n* Weight: 80 kg\n* Height: 200 cm\n* BMI: 20.00\n* BP: 120/80 mmHg\n\n**Doctor Information:**\n\n* Name: Dr. Akshara Vel\n* Hospital/Clinic: SMS Hospital, M.S. B/503, Business Center, MG Road, Pune\n* Reg. No: MMC 2018 - 411000\n* Phone: 5465647658\n* Timing: 09:00 AM - 01:00 PM, 06:00 PM - 08:00 PM (Closed: Sunday)\n\n**Medications:**\n\n* **1) ABCIXIMAB Tablets:**\n    * Dosage: 1 tablet\n    * Frequency: Morning\n    * Duration: 8 days (Total: 8 tablets)\n\n* **2) VOMILAST Tablets:**\n    * Dosage: 1 tablet\n    * Frequency: Morning and Night (After Food)\n    * Duration: 8 days (Total: 16 tablets)\n    * Composition: DOXYLAMINE 10MG + PYRIDOXINE 10 MG + FOLIC ACID 2.5 MG\n\n* **3) ZOCLAR 500 Capsules:**\n    * Dosage: 1 capsule\n    * Frequency: Morning\n    * Duration: 3 days (Total: 3 capsules)\n    * Composition: CLARITHROMYCIN IP 500MG\n\n* **4) GESTAKIND 10/SR Tablets:**\n    * Dosage: 1 tablet\n    * Frequency: Night\n    * Duration: 4 days (Total: 4 tablets)\n    * Composition: ISOXSUPRINE 10 MG\n\n\n**Special Instructions:**\n\n* Take bed rest.\n* Do not eat outside food.\n* Eat easy-to-digest food like boiled rice with dal.\n* Follow Up: 04-Sep-2023\n* Substitute with equivalent generics as required.\n\n\n**Chief Complaints:**\n\n* Fever with chills (4 days)\n* Headache (2 days)\n\n**Diagnosis:**\n\n* Malaria\n\n\n**Clinical Findings:**\n\n* Test findings for a test patient (further details not specified in prescription) - requires clarification.  Sample diagnosis and sample prescription mentioned indicating this may be a training scenario.",
+        "generic_predictions": {}
+    }
+]
